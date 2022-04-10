@@ -24,6 +24,9 @@ import { RouterLink, RouterView } from "vue-router";
         <li class="nav-item">
           <router-link class="nav-link" to="/Todolist">Todolist</router-link>
         </li>
+        <li class="nav-item">
+          <router-link class="nav-link" to="/User">User</router-link>
+        </li>
       </ul>
     </div>
   </div>

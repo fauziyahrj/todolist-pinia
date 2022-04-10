@@ -25,7 +25,7 @@ const todoList = computed(() => {
     <div class="d-flex mb-3">
       <input
         class="form-control"
-        placeholder="Type..."
+        placeholder="input your todolist here"
         type="text"
         name="newTodo"
         v-model="newTodo"
